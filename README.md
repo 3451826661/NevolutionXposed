@@ -23,6 +23,8 @@
 - [x] 通过app图标自动选择颜色对通知进行自动染色
 - [ ] 生成单色小图标时，使用apk原始图标而非miui的主题图标
 
+鸣谢[MiPushFramework](https://github.com/MiPushFramework/MiPushFramework)
+
 ### 媒体通知优化 MediaDecorator
 - [x] 将某些系统劣化的媒体通知改回Android O样式
 - [x] （相对MusicNotification）支持未展开视图完整显示

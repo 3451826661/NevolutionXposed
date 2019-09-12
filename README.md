@@ -36,6 +36,8 @@
 ### 待加入
 - [ ] 大字体通知优化 BigTextDecorator
 - [ ] 通知堆栈优化 StackDecorator
+- [ ] [短信验证码](https://github.com/Kr328/nevo-decorators-sms-captchas)
+- [ ] [增强截图通知](https://github.com/fython/EnhancedScreenshotNotification)
 - [ ] 下载通知优化 [MIUI]
 
 ### 配置界面
